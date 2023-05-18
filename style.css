@@ -1,0 +1,169 @@
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+.Col1{
+
+	width: 8.33%;
+	float: left;
+}
+.Col2{
+
+	width: 16.66%;
+	float: left;
+}
+.Col3{
+	width: 25%;
+	float: right;
+
+}
+
+.Col4{
+	width: 33.33%;
+	float: left;
+}
+.Col5{
+	width: 41.66%;
+	float: left;
+}
+.Col6{
+	width: 50%;
+	float: left;
+}
+.Col7{
+	width: 58.33%;
+	float: left;	
+}
+.Col8{
+	width:66.66%;
+	float: left;
+}
+.Col9{
+	width: 75%;
+	float: left;
+}
+.Col10{
+	width: 83.33%;
+	float: left;
+}
+.Col11{
+	width: 91.66%;
+	float: left;
+}
+.Col12{
+	width: 100%;
+	
+}
+
+.Col12{
+    list-style-type: none;
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    /* position: fixed;    */
+    /* display: inline; */
+    /* padding-left: 8%; */
+    flex-wrap: wrap;
+}
+.Col12 ul li{
+    list-style-type: none;
+    display: inline;
+    
+    
+}
+.Col12 img{
+        width: 15%;
+        height: 15%;
+}
+.Col12{
+    list-style-type: none;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    margin-top: 2%;
+    padding-left: 8%;
+}
+.Col12 ul li{
+    list-style-type: none;
+    display: inline;
+    /* display: flex; */
+}
+.Col12 img{
+    width: 12%;
+    padding-left: 1%;
+}
+#body{
+    margin-top: 2%;
+}
+.Col1{
+ 
+    background-color: green;
+    position: fixed;
+    /* margin-left: -2%; */
+    text-align: center;
+    padding: 10px;
+    margin-right: -2%;
+}
+.Col8{
+    margin-left: 8%;
+    /* margin-top: %; */
+    background-color: blueviolet;
+
+    
+    
+    
+}
+.Col8 img{
+    width: 100%;
+    height: 50%;
+    /* margin-left: 20%; */
+
+    
+}
+#image3{
+    display: inline;
+    
+}
+#image4{
+    display: inline;
+    margin-left: 20%;
+    
+}
+.Col4{
+ list-style-type: none;
+ padding:80px;   
+ 
+}
+.login{
+    color: #ffff;
+    font-size: 20px;
+}
+#icons-bottom1{
+    color: #ffff;
+    padding-bottom: 10px;
+    display: inline;
+    margin-left: -20%;
+    text-align: center;
+}
+
+#icons-bottom2{
+    color: #ffff;
+    padding: 10px;
+}
+#icons-bottom3{
+    color: #ffff;
+}
+#icons-bottom3 img{
+    width: 50%;
+    display: block;
+}
+.fa-facebook,.fa-youtube,.fa-square-twitter,.fa-square-instagram,.fa-square-pinterest{
+    font-size: 40px;
+    padding: 5px;
+}
+
